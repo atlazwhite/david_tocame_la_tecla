@@ -10,3 +10,19 @@
 </div>
 
 Bueno muchachos, la idea de este repositorio es que mediante la práctica, todos vayan habituándose al uso continúo de Git.
+
+## Tareas
+
+1️⃣ Agrega tu nombre y apellido al archivo **README.md**
+
+- Ubicación: Justo debajo del título "Miembros".
+- Extra: Enlace a tu perfil en GitHub o GitLab.
+
+2️⃣ Sube un pequeño programa al **repositorio**
+
+- Lenguaje de programación: Cualquiera es válido; pueden usar Python3.
+- Algoritmo: Cualquiera mientras no lo haya hecho ya un compañero (deben ser diferentes).
+
+## Miembros
+
+- [Alex Ríos](https://github.com/dev-alexrios/)
